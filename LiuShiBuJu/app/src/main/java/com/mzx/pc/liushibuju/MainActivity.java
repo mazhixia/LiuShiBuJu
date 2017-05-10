@@ -1,4 +1,4 @@
-package com.mzx.pc.liushibuju;
+﻿package com.mzx.pc.liushibuju;
 
 import android.content.ContentValues;
 import android.database.Cursor;
@@ -19,6 +19,8 @@ import java.util.ArrayList;
 import cn.bingoogolapple.flowlayout.BGAFlowLayout;
 
 public class MainActivity extends AppCompatActivity {
+
+
 //    private String[] mVals = new String[]{"bingo", "googol", "apple", "bingoogolapple", "helloworld"};
     private ArrayList<String> mVals=new ArrayList<>();
     private BGAFlowLayout mFlowLayout;
